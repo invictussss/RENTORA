@@ -1,0 +1,15 @@
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Backup files
+*.backup
+
+# Scala build files
+.bsp/
+.scala-build/
+target/
+
+# IDE
+.vscode/
